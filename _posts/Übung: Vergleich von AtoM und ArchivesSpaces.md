@@ -3,9 +3,6 @@ title: "Übung 1: Access to Memory (AtoM)"
 date: 2024-03-17
 ---
 
-
-
-
 Bei dieser Übung sollten wir die beiden Systeme AtoM (Access to Memory) und ArchivesSpace vergleichen. Dabei stellte sich die Frage, welches System für mich als Buchhändler besser zu verstehen ist und welches mir persönlich besser passt.AtoM 
 (Access to Memory)
 Persönliche Nutzung und Vorteile:
